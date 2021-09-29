@@ -24,7 +24,9 @@
   </div>
 
     <div class="container">
-        <div class="p-3 mb-2 bg-dark text-white"><?php  echo "Hola" ?></div>
+      <div class="row">
+        <div class="p-3 mb-2 bg-dark text-white"><?php  echo "POO" ?></div>
+        </div>
     </div>
 
   </div>
